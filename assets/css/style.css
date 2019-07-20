@@ -1,0 +1,19 @@
+
+panel{
+	width: 100%;
+}
+
+.jumbotron{
+	background-color: #020f02;
+	color: #a1a117;
+	padding-top: 1%;
+	padding-bottom: 2%;
+}
+
+.panel-heading{
+	padding-top: 0.25%;
+}
+form-group{
+    color: #a1a117;
+    background-color: #020f02;
+}
